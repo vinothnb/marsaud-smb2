@@ -1,0 +1,5 @@
+# Copy this file as config.toml and configure
+domain = 'WORKGROUP'
+password = ''
+share = '\\machine\share'
+username = 'Administrator'
