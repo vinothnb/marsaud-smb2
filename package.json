@@ -1,7 +1,7 @@
 {
-  "name": "@marsaud/smb2",
+  "name": "@vinothnb/smb2",
   "description": "SMB2 Client",
-  "homepage": "https://github.com/marsaud/node-smb2",
+  "homepage": "https://github.com/vinothnb/marsaud-smb2",
   "version": "0.18.0",
   "engines": {
     "node": ">=5.10"
@@ -12,13 +12,13 @@
     "url": "https://github.com/bchelli"
   },
   "contributors": [
-    "Fabrice Marsaud <fabrice.marsaud@vates.fr> (https://github.com/marsaud)"
+    "Vinoth N <vinoth.nb@gmail.com> (https://github.com/vinothnb)"
   ],
   "types": "index.d.ts",
   "main": "lib/smb2.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marsaud/node-smb2"
+    "url": "https://github.com/vinothnb/marsaud-smb2"
   },
   "dependencies": {
     "ntlm": "~0.1.1",
